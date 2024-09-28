@@ -66,5 +66,3 @@ To run this project locally, follow these steps:
 ## Conclusion
 This project demonstrates the power of data analysis in understanding customer behavior and making informed marketing decisions. The insights derived can help Starbucks tailor its marketing strategies and enhance customer satisfaction.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
