@@ -10,12 +10,12 @@
 5. Installation
 6. Licensing and Acknowledgements
 
-python==3.6.3 (recommended)
-seaborn==0.8.1
-pandas==0.23.3
-numpy==1.12.1
-matplotlib==2.1.0
-sklearn==0.19.1
+`python==3.6.3 (recommended)`
+`seaborn==0.8.1`
+`pandas==0.23.3`
+`numpy==1.12.1`
+`matplotlib==2.1.0`
+`sklearn==0.19.1`
 
 ## Project Motivation
 This project is part of the Udacity Data Science Nanodegree. It explores customer behavior data from Starbucks, simulating interactions on their rewards mobile app. Starbucks sends offers to users, which can either be advertisements, discounts, or BOGO (buy one get one free) offers. The data consists of demographic information, offer details, and interaction events related to offers.
@@ -53,18 +53,19 @@ Installation
 To run this project locally, follow these steps:
 
 Clone the repository:
-
-`git clone https://github.com/yashnayi234/starbucks_capstone1.git`
+```bash
+git clone https://github.com/yashnayi234/starbucks_capstone1.git`
+```
 Navigate to the project directory:
 
-`cd starbucks_capstone1`
+```cd starbucks_capstone1```
 Install the required packages:
 
-`pip install -r requirements.txt`
+```pip install -r requirements.txt```
 Usage
 Open the Jupyter Notebook:
 
-`jupyter notebook Starbucks_Capstone_notebook.ipynb`
+```jupyter notebook Starbucks_Capstone_notebook.ipynb```
 Run the notebook cells to execute the analysis and visualize the results.
 
 # Results
