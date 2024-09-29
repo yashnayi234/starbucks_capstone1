@@ -1,6 +1,6 @@
 
 # Starbucks-Capstone-Challenge
-[Blog link here]
+[[Predicting Offer Success: A Data Science Capstone Project with Starbucks]](https://medium.com/@yash.nayi9624/predicting-offer-success-a-data-science-capstone-project-with-starbucks-5e02827fa3f5)
 
 # Table of Contents
 1. Libraries Used
