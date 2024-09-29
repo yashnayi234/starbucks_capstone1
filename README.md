@@ -50,6 +50,30 @@ Starbucks_Capstone_notebook.html: An HTML version of the Jupyter Notebook for ea
 README.md: This file, containing an overview of the project and instructions.
 Blog.md: A markdown file containing a blog-style summary of the project and findings.
 
+Installation
+To run this project locally, follow these steps:
+
+Clone the repository:
+
+git clone https://github.com/yashnayi234/starbucks_capstone1.git
+Navigate to the project directory:
+
+cd starbucks_capstone1
+Install the required packages:
+
+pip install -r requirements.txt
+Usage
+Open the Jupyter Notebook:
+
+jupyter notebook Starbucks_Capstone_notebook.ipynb
+Run the notebook cells to execute the analysis and visualize the results.
+
+Results
+Summarize the key findings from the analysis, including customer segments, popular products, and insights into customer satisfaction.
+Include relevant visualizations that support your findings.
+Conclusion
+This project demonstrates the power of data analysis in understanding customer behavior and making informed marketing decisions. The insights derived can help Starbucks tailor its marketing strategies and enhance customer satisfaction.
+
 ## Licensing and Acknowledgements
 This project makes use of data provided by Starbucks. The project is part of the Data Scientist Nanodegree program offered by Udacity. Special thanks to Starbucks for sharing their simulated data and to Udacity for the guidance and curriculum.
 
