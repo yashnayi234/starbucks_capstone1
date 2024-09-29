@@ -54,11 +54,13 @@ To run this project locally, follow these steps:
 
 Clone the repository:
 ```bash
-git clone https://github.com/yashnayi234/starbucks_capstone1.git`
+git clone https://github.com/yashnayi234/starbucks_capstone1.git
 ```
 Navigate to the project directory:
 
-```cd starbucks_capstone1```
+```bash
+cd starbucks_capstone1
+```
 Install the required packages:
 
 ```pip install -r requirements.txt```
