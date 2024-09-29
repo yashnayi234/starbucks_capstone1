@@ -70,11 +70,11 @@ Open the Jupyter Notebook:
 ```jupyter notebook Starbucks_Capstone_notebook.ipynb```
 Run the notebook cells to execute the analysis and visualize the results.
 
-# Results
+## Results
 Summarize the key findings from the analysis, including customer segments, popular products, and insights into customer satisfaction.
 Include relevant visualizations that support your findings.
 
-# Conclusion
+## Conclusion
 This project demonstrates the power of data analysis in understanding customer behavior and making informed marketing decisions. The insights derived can help Starbucks tailor its marketing strategies and enhance customer satisfaction.
 
 ## Licensing and Acknowledgements
