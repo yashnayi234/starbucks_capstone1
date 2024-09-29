@@ -2,14 +2,13 @@
 # Starbucks-Capstone-Challenge
 [Blog link here]
 
-Table of Contents
-Libraries Used
-Project Motivation
-Summary
-File Descriptions
-Licensing and Acknowledgements
-Libraries Used
-This project requires Python 3.x and the following libraries installed:
+# Table of Contents
+1. Libraries Used
+2. Project Motivation
+3. Summary
+4. File Descriptions
+5. Installation
+6. Licensing and Acknowledgements
 
 python==3.6.3 (recommended)
 seaborn==0.8.1
@@ -55,23 +54,24 @@ To run this project locally, follow these steps:
 
 Clone the repository:
 
-git clone https://github.com/yashnayi234/starbucks_capstone1.git
+`git clone https://github.com/yashnayi234/starbucks_capstone1.git`
 Navigate to the project directory:
 
-cd starbucks_capstone1
+`cd starbucks_capstone1`
 Install the required packages:
 
-pip install -r requirements.txt
+`pip install -r requirements.txt`
 Usage
 Open the Jupyter Notebook:
 
-jupyter notebook Starbucks_Capstone_notebook.ipynb
+`jupyter notebook Starbucks_Capstone_notebook.ipynb`
 Run the notebook cells to execute the analysis and visualize the results.
 
-Results
+# Results
 Summarize the key findings from the analysis, including customer segments, popular products, and insights into customer satisfaction.
 Include relevant visualizations that support your findings.
-Conclusion
+
+# Conclusion
 This project demonstrates the power of data analysis in understanding customer behavior and making informed marketing decisions. The insights derived can help Starbucks tailor its marketing strategies and enhance customer satisfaction.
 
 ## Licensing and Acknowledgements
